@@ -5,13 +5,6 @@
 //	The decoding was first to read the binary file, then to convert it to bits, and then to morse code. 
 //	From the morse code a message can be further decoded. 
 //
-// What's on your mind about this lab?
-//  The problem I had with this lab was dealing with the data itself and how to manipulate it.
-//  It was hard to manage and think of solutions to read the bitset in 2 bits.
-//  It was also tough trying to follow my Class Diagram since I wanted to try to emulate
-//  what I was learning in Java, but I am starting to experience myself 
-//  the differences between C++ and Java. I really enjoyed working on this lab.
-//
 // Author: Jason Yoon
 //
 // Date: 10/18/2018
